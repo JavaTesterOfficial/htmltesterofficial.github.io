@@ -4,7 +4,7 @@
             const result = document.getElementById("result");
 
             if (userId === placeholderId) {
-                result.innerHTML = '<span class="success">Congratulations, you have successfully registered your copy! To download your copy, go here.<a href="https://example.com" target="_blank">example.com</a>';
+                result.innerHTML = '<span class="success">Congratulations, you have successfully registered your copy! To download your copy, go.<a href="https://example.com" target="_blank"> here</a><br> To learn how to install your copy, please go <a href="https://example.com" target="_blank"> here</a> for a tutorial.';
             } else {
                 result.innerHTML = '<span class="error">Incorrect ID. Please retype your ID or try again later.</span>';
             }
