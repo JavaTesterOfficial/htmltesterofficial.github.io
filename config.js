@@ -11,4 +11,4 @@
         // }
 
 //Note for viewer:
-//this file was originally used for the Bypass Launcher, which was a bypassing service I set up in 2025 for my school. It got discontinued, but you can go ahead and check it out on my repositories. The name is "Bypass Launcher"
+//this file was originally used for the Bypass Launcher, which was a bypassing service I set up in 2025 for my school. It got discontinued, but you can go ahead and check it out on my repositories. The name of the repository is "Bypass-Launcher"
